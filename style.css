@@ -1,0 +1,28 @@
+body{
+
+    display: flex;
+}
+
+
+.image {
+    height: 60vh;
+    width: 50vw;
+    padding: 20px;
+}
+
+.box2 {
+    border-radius: 50%;
+    width: 8vw;
+    height: 17vh;
+    padding: 20px;
+}
+.jsp {
+    display: flex;
+}
+ 
+.text{
+    padding-top: 40px;
+}
+.text span{
+    color: hsl(212, 23%, 69%);
+}
